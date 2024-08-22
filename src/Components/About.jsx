@@ -31,7 +31,7 @@ const About = () => {
         >
           <div className="w-[18rem] h-[22rem] md:w-[24rem] md:h-[28rem] rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-500 ease-in-out">
             <img
-              src="src/assets/project/Profile_image.jpg"
+              src="public/profile_image.jpg"
               alt="About Me"
               className="w-full h-full border-2 border-neutral-700 rounded-2xl object-cover hover:scale-105 transition-transform duration-300"
             />

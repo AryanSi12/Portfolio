@@ -17,7 +17,7 @@ const Hero = () => {
           <motion.div
           animate={{ y: [0, -10, 0] }} // Opposite up and down motion
           transition={{ duration: 3, repeat: Infinity, repeatType: 'reverse', delay: 0.2 }}
-          className="w-64 h-72 sm:w-80 sm:h-96 md:w-[28rem] md:h-[32rem] rounded-lg overflow-hidden shadow-lg hover:shadow-2xl border-blue-200 hover:border-blue-500 transition-all duration-500 ease-in-out">
+          className="w-56 h-64 sm:w-80 sm:h-96 md:w-[24rem] md:h-[28rem] rounded-lg overflow-hidden shadow-lg hover:shadow-2xl border-blue-200 hover:border-blue-500 transition-all duration-500 ease-in-out">
             <img
               src="profile_image-3.jpg"
               alt="Aryan Singh"

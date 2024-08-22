@@ -5,7 +5,7 @@ import Technologies from './Components/Technologies';
 import Projects from './Components/Projects';
 import { Outlet, useLocation } from 'react-router-dom';
 import ContactMe from './Components/ContactMe';
-
+import './App.css'
 function App() {
   const location = useLocation();
 
@@ -13,9 +13,10 @@ function App() {
   const isProjectDetail = location.pathname.startsWith("/Project");
 
   return (
-    <div className="min-h-screen bg-gradient-to-tr from-black via-gray-900 to-gray-800 overflow-hidden"> {/* Added overflow-hidden */}
+    <div className="min-h-screen  overflow-hidden"> 
       <Navbar />
-      <div className="flex flex-col min-h-screen"> {/* Ensure the container takes full height */}
+      <div className="container mx-auto px-5 flex flex-col min-h-screen"> 
+        {/* Added container and mx-auto for centering content */}
         {!isProjectDetail && (
           <>
             <Hero />

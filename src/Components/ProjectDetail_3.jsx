@@ -32,7 +32,7 @@ const ProjectDetail_3 = () => {
             transition={{ duration: 1 }}
           >
             <img
-              src="public/project_3.jpeg"
+              src="project_3.jpeg"
               alt="Task Management Application"
               className="w-full h-auto rounded-lg shadow-lg hover:shadow-2xl transition-all duration-500 ease-in-out object-cover"
             />

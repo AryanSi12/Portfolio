@@ -32,7 +32,7 @@ const ProjectDetail_2 = () => {
             transition={{ duration: 1 }}
           >
             <img
-              src="public/project2.jpg"
+              src="project2.jpg"
               alt="Fruit and Vegetable Classification"
               className="w-full h-auto rounded-lg shadow-lg hover:shadow-2xl transition-all duration-500 ease-in-out object-cover"
             />

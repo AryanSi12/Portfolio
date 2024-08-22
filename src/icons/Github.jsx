@@ -10,7 +10,7 @@ function Github() {
       className="transition-transform duration-300 ease-in-out hover:scale-110"
     >
       <img 
-        src="public/icons8-github-48.png" 
+        src="icons8-github-48.png" 
         alt="GitHub Icon"
         className="w-12 h-12 cursor-pointer"
       />

@@ -9,7 +9,7 @@ function Leetcode() {
       className="transition-transform duration-300 ease-in-out hover:scale-110"
     >
       <img
-        src="public/LeetCode_logo.png"
+        src="LeetCode_logo.png"
         className="w-12 h-12 cursor-pointer"
         alt="LeetCode"
       />

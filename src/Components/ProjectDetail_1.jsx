@@ -32,7 +32,7 @@ const ProjectDetail_1 = () => {
             transition={{ duration: 1 }}
           >
             <img
-              src="public/project1.png"
+              src="project1.png"
               alt="Blogging Platform"
               className="w-full h-auto rounded-lg shadow-lg hover:shadow-2xl transition-all duration-500 ease-in-out object-cover"
             />

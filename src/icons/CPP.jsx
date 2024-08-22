@@ -9,7 +9,7 @@ function CPP() {
     >
       <img 
         className="w-24 h-24 border-2 border-neutral-700 rounded-2xl p-4" 
-        src="public/c-.png" 
+        src="c-.png" 
         alt="C++ Icon" 
       />
     </motion.div>

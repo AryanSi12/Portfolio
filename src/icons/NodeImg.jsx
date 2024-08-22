@@ -10,7 +10,7 @@ function NodeImg() {
     >
       <img 
         className="w-full h-full object-cover" 
-        src="public/icons8-node-js-48.png" 
+        src="icons8-node-js-48.png" 
         alt="Node.js Icon" 
       />
     </motion.div>

@@ -24,7 +24,7 @@ const ContactMe = () => {
         >
         <a href="mailto:aryan23328@gmail.com" target="_blank" rel="noopener noreferrer">
           <img 
-            src="public/icons8-gmail-100.png" 
+            src="icons8-gmail-100.png" 
             alt="Gmail Icon" 
             className="mx-auto w-16 h-16 hover:scale-110 transition-transform duration-300"
           />

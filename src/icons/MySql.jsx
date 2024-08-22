@@ -10,7 +10,7 @@ function MySql() {
     >
       <img 
         className="w-full h-full filter sepia-50 hue-rotate-180 rounded-2xl" 
-        src="public/programing.png" 
+        src="programing.png" 
         alt="MySQL Icon" 
       />
     </motion.div>

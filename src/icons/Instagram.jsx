@@ -9,7 +9,7 @@ function Instagram() {
       className="transition-transform duration-300 ease-in-out hover:scale-110"
     >
       <img
-        src="public/icons8-instagram-48.png"
+        src="icons8-instagram-48.png"
         alt="Instagram"
         className="w-12 h-12 cursor-pointer"
       />
